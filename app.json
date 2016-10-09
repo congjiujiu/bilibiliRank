@@ -6,7 +6,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Bilibili ranks",
+    "navigationBarTitleText": "Bilibili排行榜",
     "navigationBarTextStyle":"black"
   }
 }
