@@ -1,7 +1,8 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/ranklist/ranklist"
+    "pages/ranklist/ranklist",
+    "pages/video/video"
   ],
   "window":{
     "backgroundTextStyle":"light",

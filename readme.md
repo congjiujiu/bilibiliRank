@@ -4,6 +4,6 @@
 
 截图：
 
-![show](http://g.recordit.co/xMhziIzaEU.gif)
+![show](http://g.recordit.co/nbJGYoqL1P.gif)
 
 <s>开发中...</s>
